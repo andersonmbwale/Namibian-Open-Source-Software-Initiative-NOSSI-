@@ -1,2 +1,6 @@
-# Open Source Software Initiative Namibia (OSSIN)
-A repository for Open Source Software in Namibia.
+# Namibian Open Source Software Initiative (NOSSI)
+The Namibian Open Source Software Initiative (NOSSI) is a non-profit organization that aims to promote the use of open-source software in Namibia. Open-source software is software that can be freely used, modified, and shared by anyone. It offers many benefits, such as lower costs, higher quality, greater security, and more innovation. NOSSI supports the Open Source Definition maintained by the Open Source Initiative (OSI) and advocates for the adoption of open source software in various sectors such as education, health, government, and business. NOSSI also provides resources and networking opportunities for open-source developers and users in Namibia. NOSSI is inspired by other successful open-source projects and communities around the world, such as X-Road, SourceForge, and iHRIS. NOSSI welcomes anyone who shares its vision and values to join and contribute to its mission.
+
+All projects under NOSSI are open source and welcome collaboration from anyone who is interested, whether they are hobbyists, students, or professionals. All projects are also licensed under the GNU General Public License (GPL), which is a free software license that ensures the users’ freedom to run, study, share, and modify the software.
+
+
